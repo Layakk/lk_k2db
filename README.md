@@ -1,2 +1,2 @@
 # lk_k2db
-Conjunto de utilidades para obtener información de inteligencia a partir de capturas Kismet.
+Set of tools to extract intelligence information from Kismet captures.
